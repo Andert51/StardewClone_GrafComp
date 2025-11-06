@@ -9,10 +9,8 @@ Resumen técnico del proyecto, vista general del mismo, para una comprensión ma
 ---
 
 ## 🧑‍💻 Autores
-
-*Cinthia Camila Bravo Marmolejo*  
 *Andrés Torres Ceja*  
-*Jose Angel Ramirez Martinez*
+
 
  **Fecha de inicio:** 2025-03-18  
  **Versión:** _alpha 0.1_
